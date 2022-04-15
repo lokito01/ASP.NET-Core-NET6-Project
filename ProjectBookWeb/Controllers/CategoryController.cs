@@ -109,7 +109,7 @@ namespace ProjectBookWeb.Controllers
         //POST
         [HttpPost,ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public IActionResult DeletePÓT(int? id)
+        public IActionResult DeletePOST(int? id)
         {
             var obj = _db.Categories.Find(id);
             if (obj == null)
