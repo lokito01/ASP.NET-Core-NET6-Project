@@ -1,1 +1,1 @@
-https://github.com/lokito01/ASP.NET-Core-NET6-Project
+https://github.com/tgthuan/ASP.NET-Core-NET6-Project
